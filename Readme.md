@@ -29,7 +29,7 @@ pip install pyqt6 pycryptodome
 Kod dosyasını indirin:
 
 ```bash
-git clone https://github.com/kullanici_adiniz/sifreleme-araci.git
+git clone https://github.com/MuhammedFatih63/sifreleme-araci.git
 cd sifreleme-araci
 ```
 
